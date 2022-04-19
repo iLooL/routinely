@@ -1,0 +1,34 @@
+[
+    {
+        "name": "go for a walk",
+        "count": 1,
+        "metric": "times",
+        "occurance": "per day",
+        "repeat": "daily",
+        "time": "morning"
+    },
+    {
+        "name": "read a book",
+        "count": 15,
+        "metric": "min",
+        "occurance": "per day",
+        "repeat": "daily",
+        "time": "evening"
+    },
+    {
+        "name": "play with dog",
+        "count": 10,
+        "metric": "times",
+        "occurance": "per week",
+        "repeat": "weekly",
+        "time": "afternoon"
+    },
+    {
+        "name": "milk the cows",
+        "count": 4,
+        "metric": "times",
+        "occurance": "per month",
+        "repeat": "monthly",
+        "time": "morning,afternoon,evening"
+    }
+]
